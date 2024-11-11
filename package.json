@@ -1,0 +1,20 @@
+{
+  "name": "vitest-fuck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@graphql-tools/schema": "^10.0.7",
+    "@graphql-tools/wrap": "^10.0.15",
+    "graphql": "^16.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.4"
+  }
+}
